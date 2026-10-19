@@ -1,4 +1,3 @@
-# CheeseCometo.github.io
 <html>
 <head>
 <title>Eaglercraft Singleplayer Test</title>
